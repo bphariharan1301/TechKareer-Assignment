@@ -1,0 +1,150 @@
+@import '../../../fonts.css';
+
+#job-preview-section {
+  width: 90% !important;
+}
+
+.job-preview-div {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.job-details-div {
+  width: 100%;
+  height: auto;
+  margin: 2rem 0 0 4rem;
+}
+
+.job-details-right-pane-div {
+  background-color: #FCFCFC;
+  width: 20%;
+  height: auto;
+}
+
+.about_job_titel {
+  margin-top: 1rem !important;
+  font-family: 'General Sans';
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 18.9px;
+  text-align: left;
+}
+
+.role-name {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin-bottom: 2rem;
+}
+.job-detail-discription{
+  width: 526px !important;
+height: 401pxpx !important;
+top: 379px !important;
+left: 100px !important;
+gap: 8px !important;
+opacity: 0px !important;
+
+}
+
+.text_content{
+font-family: General Sans !important;
+font-size: 16px !important;
+font-weight: 500 !important;
+line-height: 28px !important;
+text-align: left !important;
+
+}
+
+.css-ix1f03-MuiTypography-root {
+  margin-top: 0 !important;
+}
+
+.css-h4y409-MuiList-root{
+  padding-top: 0px !important;
+  padding-bottom: 0px !important;
+}
+.css-1p823my-MuiListItem-root{
+  height: 30px !important;
+  padding-top: 0px !important;
+  padding-bottom: 0px !important;
+  padding-right: 0px !important;
+}
+.job-detail-discription{
+  margin-top: 2rem !important;
+  margin-bottom: 2rem !important;
+  margin-left: 2rem !important;
+}
+
+.text_heading{
+
+font-family: General Sans !important;
+font-size: 14px !important;
+font-weight: 500 !important;
+line-height: 18.9px !important;
+text-align: left !important;
+
+}
+
+.skill_required{
+  display: flex;
+  margin-top: 2rem !important;
+  width: 872px !important;
+height: 115px !important;
+top: 199px !important;
+left: 100px !important;
+gap: 64px !important;
+opacity: 0px;
+margin-bottom: 1rem !important;
+}
+
+.location-compensation{
+  margin-bottom: 1rem !important;
+}
+
+.text_heading2{
+font-family: General Sans  !important;
+font-size: 16px !important;
+font-weight: 600 !important;
+line-height: 21.6px !important;
+text-align: left !important;
+color: #3D3D3D !important;
+;
+}
+
+.icon{
+  margin-top: 0.5rem !important;
+  width: 126.41px !important;
+height: 88px !important;
+gap: 8px !important;
+opacity: 0px !important;
+
+}
+
+.company-section {
+  margin: 0 0 4rem 0;
+}
+
+.company-details-div {
+  display: flex !important;
+  flex-direction: column !important;
+  gap: 1rem !important;
+}
+
+.company-heading-text {
+  color: #6E6D6D !important;
+  font-family: 'General Sans';
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 18.9px;
+}
+
+.company-description-text {
+  color: #3D3D3D;
+  font-family: General Sans;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 21.6px;
+  text-align: left;
+}
+

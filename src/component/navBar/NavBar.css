@@ -1,0 +1,83 @@
+.navBar{
+    background-color: #ffff !important;
+   
+}
+.header{
+    background-color: #ffff !important;
+    height: 100px !important;
+}
+.no-hover {
+    pointer-events: none;
+  }
+  
+  .no-hover:hover {
+    background-color: #DC4A2D !important; /* Ensure background color stays the same */
+    color: white !important; /* Ensure text color stays the same */
+  }
+  
+  .container{
+    display: flex !important;
+  }
+
+  .notification{
+    margin-top: 20px !important;
+    display: flex;
+    gap: 10px !important;
+  }
+  .bell{
+    margin-top: 5px !important;
+  }
+
+  .down_arrow{
+    margin-top: 10px !important;
+  }
+
+  .logo{
+font-family: Satoshi Variable;
+font-size: 20px !important;
+font-weight: 700 !important;
+line-height: 27px  !important;
+text-align: left !important;
+color: #DC4A2D;
+  }
+
+  .logo_container{
+    background-color: #E7E7E7 !important;
+    width: Fixed (100px)px !important;
+height: Fixed (61px)px !important;
+padding: 9px 28px 9px 28px !important;
+gap: 10px !important;
+
+margin-top: 15px !important;
+
+opacity: 0px !important;
+
+}
+
+.logoName{
+  margin-top: 12px !important;
+}
+
+@media (min-width: 1536px) {
+  .css-19r6kue-MuiContainer-root {
+      max-width: none !important;
+  }
+}
+
+.css-1if6ryy {
+  border: 1px solid #ddd;
+  border-radius: 70px;
+  padding: 8px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  width: 100%;
+  max-width: 480px !important;
+  margin: auto;
+  margin-top: 10px !important;
+}
